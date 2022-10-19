@@ -1,5 +1,5 @@
 <div class="col-md-4 col-md-offset-4 col-xs-12">
-    <h3 class="text-center">Bienvenido</h3>
+    <h3 class="text-center">BIENVENIDOS</h3>
     <div class="col-md-12">
         <div class="form-group">
             <label for="usuario">Usuario</label>
