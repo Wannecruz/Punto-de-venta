@@ -2,7 +2,7 @@
     <h3 class="text-center">BIENVENIDOS PUNTO DE VENTA GRUPO 6</h3>
     <div class="col-md-12">
         <div class="form-group">
-            <label for="usuario">Usuario</label>
+            <label for="usuario">Ingrese su Usuario</label>
             <input placeholder="Nombre de usuario" type="text" id="usuario" class="form-control">
         </div>
     </div>
