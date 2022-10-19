@@ -24,7 +24,7 @@ if (!file_exists(RAIZ . "/config.php")) {
         include_once RAIZ . "/modulos/funciones.php"; #Aquí tenemos nuestros estilos, título del documento, etcétera
 
         #La lista blanca es para evitar ataques. Si en el futuro se añade una opción, aquí se tiene que agregar
-        $lista_blanca = array("pasar-inventario", "alta-de-inventarios", "caja123", "clientes", "compras", "inventarios", "ventas", "reportes-inventarios", "reportes", "reportes-caja", "reportes-ventas", "gastos", "ajustes", "reportes-gastos", "reportes-bajas-inventario", "usuarios", "productos-en-stock");
+        $lista_blanca = array("pasar-inventario", "alta-de-inventarios", "caja", "clientes", "compras", "inventarios", "ventas", "reportes-inventarios", "reportes", "reportes-caja", "reportes-ventas", "gastos", "ajustes", "reportes-gastos", "reportes-bajas-inventario", "usuarios", "productos-en-stock");
 
         #Comprobamos si nos están pidiendo una página, en caso de que no, los redireccionamos a "ventas"
         if (isset($_GET["pagina"])) {
