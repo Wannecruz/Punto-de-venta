@@ -8,7 +8,7 @@
     </div>
     <div class="col-md-12">
         <div class="form-group">
-            <label for="palabra_secreta">Contraseña</label>
+            <label for="palabra_secreta">digite su Contraseña</label>
             <input placeholder="Contraseña" type="password" id="palabra_secreta" class="form-control">
         </div>
     </div>
