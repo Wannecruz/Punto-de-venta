@@ -54,7 +54,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                                                        class="form-control">
         </div>
         <div class="form-group">
-            <label for="rfc">RFC</label><input placeholder="RFC" type="text" id="rfc" class="form-control">
+            <label for="rfc">NIT</label><input placeholder="RFC" type="text" id="rfc" class="form-control">
         </div>
         <div class="form-group">
             <label for="direccion">Dirección</label><input placeholder="Dirección" type="text" id="direccion"

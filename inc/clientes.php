@@ -26,7 +26,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                         <th>Dirección</th>
                         <th>Colonia</th>
                         <th>CP</th>
-                        <th>RFC</th>
+                        <th>NIT</th>
                         <th>Teléfono 1</th>
                         <th>Teléfono 2</th>
                         <th>Tipo</th>
