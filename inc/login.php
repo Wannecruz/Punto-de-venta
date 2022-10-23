@@ -1,5 +1,5 @@
 <div class="col-md-4 col-md-offset-4 col-xs-12">
-    <h3 class="text-center">BIENVENIDOS </h3>
+    <h3 class="text-center">BIENVENIDOS</h3>
     <div class="col-md-12">
         <div class="form-group">
             <label for="usuario">Ingrese su Usuario</label>
@@ -8,12 +8,12 @@
     </div>
     <div class="col-md-12">
         <div class="form-group">
-            <label for="palabra_secreta">digite su Contraseña</label>
+            <label for="palabra_secreta">Ingrese su Contraseña</label>
             <input placeholder="Contraseña" type="password" id="palabra_secreta" class="form-control">
         </div>
     </div>
     <div class="col-md-12">
-        <button id="iniciar_sesion" class="form-control btn btn-success">Ingresar <i class="fa fa-sign-in"></i>
+        <button id="iniciar_sesion" class="form-control btn btn-success">Entrar<i class="fa fa-sign-in"></i>
         </button>
     </div>
 </div>
