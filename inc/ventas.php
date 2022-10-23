@@ -13,22 +13,22 @@
                 <div class="btn-group">
                     <button id="preparar_venta" type="button" class="btn btn-success">
                         <i class="fa-check-circle-o fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd>F1</kbd> Realizar venta</span>
+                        <span class="hidden-xs"><kbd>F1</kbd> Realizar una venta</span>
                     </button>
                 </div>
                 <div class="btn-group">
                     <button id="cancelar_toda_la_venta" type="button" class="btn btn-danger">
                         <i class="fa-ban fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd>F2</kbd> Cancelar toda la venta</span>
+                        <span class="hidden-xs"><kbd>F2</kbd> Cancelar la venta</span>
                     </button>
                 </div>
             </div>
             <div class="form-group">
-                <label for="codigo_producto">Comienza a escribir o escanea el código</label>
+                <label for="codigo_producto">Digíta un numero</label>
                 <input class="form-control" type="text" id="codigo_producto"
                        placeholder="Comienza a escribir o escanea el código">
             </div>
-            <h1 hidden="hidden"><strong>Total: </strong><span id="contenedor_total"></span></h1>
+            <h1 hidden="hidden"><strong>Total de la Venta: </strong><span id="contenedor_total"></span></h1>
         </div>
     </div>
     <br>
@@ -45,10 +45,10 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Realizar venta</h4>
+                <h4 class="modal-title">Realizar una venta</h4>
             </div>
             <div class="modal-body">
-                <h2 hidden="hidden"><strong>Total: </strong><span id="contenedor_total_modal"></span></h2>
+                <h2 hidden="hidden"><strong>Total de la venta: </strong><span id="contenedor_total_modal"></span></h2>
                 <div class="row">
                     <div class="form-group">
                         <div class="col-xs-12 col-md-10">

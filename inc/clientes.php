@@ -78,16 +78,16 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                            placeholder="Código postal">
                 </div>
                 <div class="form-group">
-                    <label for="rfc_cliente">RFC</label>
+                    <label for="rfc_cliente">NIT</label>
                     <input data-requerido="true" id="rfc_cliente" class="form-control" type="text" placeholder="RFC">
                 </div>
                 <div class="form-group">
-                    <label for="tel1_cliente">Teléfono 1</label>
+                    <label for="tel1_cliente">Teléfono celular 1</label>
                     <input data-requerido="true" id="tel1_cliente" class="form-control" type="tel"
                            placeholder="Teléfono 1">
                 </div>
                 <div class="form-group">
-                    <label for="tel2_cliente">Teléfono 2</label>
+                    <label for="tel2_cliente">Teléfono celular 2</label>
                     <input data-requerido="true" id="tel2_cliente" class="form-control" type="tel"
                            placeholder="Teléfono 2">
                 </div>
