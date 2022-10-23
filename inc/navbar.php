@@ -16,11 +16,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
             <ul class="nav navbar-nav">
                 <li id="elem_ventas"><a href="./ventas"><i class="fa fa-money"></i> Ventas Realizadas</a></li>
                 <li id="elem_inventarios"><a href="./inventarios"><i class="fa fa-book"></i> Inventarios actulaes</a></li>
-<<<<<<< HEAD
-                <li id="elem_caja"><a href="./caja"><i class="fa fa-money"></i> Caja123</a></li>
-=======
-                <li id="elem_caja"><a href="./caja"><i class="fa fa-money"></i> Cajas</a></li>
->>>>>>> 2b9aa5a24036ed2a682009718dc7e2d7343b6c02
+                <li id="elem_caja"><a href="./caja"><i class="fa fa-money"></i> Caja</a></li>
                 <li id="elem_gastos"><a href="./gastos"><i class="fa fa-calculator"></i> Gastos</a></li>
                 <li id="elem_alta_inventarios"><a href="./alta-de-inventarios"><i class="fa fa-angle-double-up"></i>
                         Alta a los inventarios</a></li>
