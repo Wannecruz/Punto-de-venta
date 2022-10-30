@@ -41,7 +41,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                        placeholder="Cantidad mínima que puede existir">
             </div>
             <div class="form-group">
-                <label for="stock">Familia o proveedor</label>
+                <label for="stock">Proveedor</label>
                 <input data-requerido="true" class="form-control" type="text" id="familia"
                        placeholder="Proveedor">
             </div>
