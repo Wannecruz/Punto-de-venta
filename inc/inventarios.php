@@ -76,7 +76,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                         <th class="text-center">Utilidad</th>
                         <th class="text-center">Existencia</th>
                         <th class="text-center">Existencia mínima</th>
-                        <th class="text-center">Familia</th>
+                        <th class="text-center">Prfoveedor</th>
                         <th class="text-center">Opciones</th>
                     </tr>
                     </thead>

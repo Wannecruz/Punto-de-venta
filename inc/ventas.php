@@ -7,7 +7,7 @@
                 <div class="btn-group">
                     <button id="quitar_ultimo_producto" type="button" class="btn btn-warning">
                         <i class="fa-minus fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd>-</kbd> Quitar último producto</span>
+                        <span class="hidden-xs"><kbd></kbd> Quitar último producto</span>
                     </button>
                 </div>
                 <div class="btn-group">
@@ -28,7 +28,7 @@
                 <input class="form-control" type="text" id="codigo_producto"
                        placeholder="Comienza a escribir o escanea el código">
             </div>
-            <h1 hidden="hidden"><strong>Total de la Venta: </strong><span id="contenedor_total"></span></h1>
+            <h1 hidden="hidden"><strong>Total de la Venta: </strong> Q<span id="contenedor_total"></span></h1>
         </div>
     </div>
     <br>
