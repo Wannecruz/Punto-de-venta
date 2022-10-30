@@ -7,7 +7,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
     <h3>Aquí se muestran aquellos productos cuya cantidad es menor a la permitida</h3>
     <div class="form-group">
 
-        <label for="familia">Familia o proveedor</label>
+        <label for="familia">Proveedor</label>
         <select name="familia" id="familia" class="form-control">
 
         </select>
@@ -20,7 +20,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                 <th>Nombre</th>
                 <th>Existencia</th>
                 <th>Existencia permitida</th>
-                <th>Familia</th>
+                <th>Proveedor</th>
             </tr>
             </thead>
             <tbody id="cuerpo_tabla">
