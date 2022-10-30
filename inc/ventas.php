@@ -13,13 +13,13 @@
                 <div class="btn-group">
                     <button id="preparar_venta" type="button" class="btn btn-success">
                         <i class="fa-check-circle-o fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd>F1</kbd> Realizar una venta</span>
+                        <span class="hidden-xs"><kbd></kbd> Realizar una venta</span>
                     </button>
                 </div>
                 <div class="btn-group">
                     <button id="cancelar_toda_la_venta" type="button" class="btn btn-danger">
                         <i class="fa-ban fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd>F2</kbd> Cancelar la venta</span>
+                        <span class="hidden-xs"><kbd></kbd> Cancelar la venta</span>
                     </button>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                         <div class="checkbox checkbox-primary checkbox-circle">
                             <input type="checkbox" id="imprimir_ticket">
                             <label for="imprimir_ticket">
-                                Ticket <i class="fa fa-ticket"></i>
+                                Factura <i class="fa fa-ticket"></i>
                             </label>
                         </div>
                     </div>

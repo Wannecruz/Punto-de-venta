@@ -25,19 +25,19 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
 <br>
 <div class="row">
     <div class="col-xs-4">
-        <h4 class="text-center" hidden="hidden"><strong>Caja chica:</strong> $<span id="caja_chica"></span></h4>
+        <h4 class="text-center" hidden="hidden"><strong>Caja chica:</strong> Q<span id="caja_chica"></span></h4>
     </div>
     <div class="col-xs-4">
-        <h4 class="text-center" hidden="hidden"><strong>Gastos:</strong> $<span id="gastos"></span></h4>
+        <h4 class="text-center" hidden="hidden"><strong>Gastos:</strong> Q<span id="gastos"></span></h4>
     </div>
     <div class="col-xs-4">
-        <h4 hidden="hidden" class="text-center"><strong>Ventas:</strong> $<span id="ventas"></span></h4>
+        <h4 hidden="hidden" class="text-center"><strong>Ventas:</strong> Q<span id="ventas"></span></h4>
     </div>
     <div class="col-xs-6">
-        <h3 hidden="hidden" class="text-center"><strong>Total en caja:</strong> $<span id="total_caja"></span></h3>
+        <h3 hidden="hidden" class="text-center"><strong>Total en caja:</strong> Q<span id="total_caja"></span></h3>
     </div>
     <div class="col-xs-6">
-        <h3 hidden="hidden" class="text-center"><strong>Utilidad:</strong> $<span id="utilidad"></span></h3>
+        <h3 hidden="hidden" class="text-center"><strong>Utilidad:</strong> Q<span id="utilidad"></span></h3>
     </div>
 </div>
 <div class="row hidden-print">

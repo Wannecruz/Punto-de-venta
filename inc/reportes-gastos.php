@@ -25,7 +25,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
 <br>
 <div class="row">
     <div class="col-xs-4">
-        <h4 class="text-center" hidden="hidden"><strong>Total:</strong> $<span id="total_gastos"></span></h4>
+        <h4 class="text-center" hidden="hidden"><strong>Total:</strong> Q<span id="total_gastos"></span></h4>
     </div>
 </div>
 <div class="row hidden-print">

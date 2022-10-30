@@ -24,7 +24,7 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
                 <option value="precio_venta">Precio de venta</option>
                 <option value="utilidad">Utilidad</option>
                 <option value="existencia">Existencia</option>
-                <option value="familia">Familia</option>
+                <option value="familia">Proveedor</option>
             </select>
         </div>
     </div>
@@ -43,10 +43,10 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
 <br>
 <div class="row text-center">
     <div class="col-xs-6">
-        <h2 hidden="hidden"><strong>Total de productos:</strong> <span id="total_productos"></span></h2>
+        <h2 hidden="hidden"><strong>Total de productos:</strong> Q<span id="total_productos"></span></h2>
     </div>
     <div class="col-xs-6">
-        <h2 hidden="hidden"><strong>Valor del inventario: </strong><span id="total_dinero"></span></h2>
+        <h2 hidden="hidden"><strong>Valor del inventario: </strong> Q<span id="total_dinero"></span></h2>
     </div>
 </div>
 <div class="row hidden-print">

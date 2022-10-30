@@ -87,11 +87,11 @@ if (!isset($_SESSION)) exit("<script>window.location.href = '../';</script>");
             </div>
             <div class="modal-body">
                 <div class="well">
-                    <h1>OkVenta
+                    <h1>Punto de Venta
                         <small>v1.0</small>
                     </h1>
                     <br>
-                    <h2>Desarrollado y mantenido por <a target="_blank" href="https://parzibyte.me/blog">Parzibyte</a></h2>
+                    <h2>Desarrollado y mantenido por <a target="_blank" href="wannecruz@gmail.com">WanneCruz</a></h2>
                 </div>
             </div>
             <div class="modal-footer">
