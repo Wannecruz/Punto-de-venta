@@ -1,0 +1,27 @@
+{
+  "name": "punto-de-venta",
+  "version": "1.0.0",
+  "description": "Punto de venta con PHP, jQuery y Bootstrap.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wannecruz/Punto-de-venta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wannecruz/Punto-de-venta/issues"
+  },
+  "homepage": "https://github.com/Wannecruz/Punto-de-venta#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  }
+}
