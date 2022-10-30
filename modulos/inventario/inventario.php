@@ -1,14 +1,5 @@
 <?php
-#   ____  ____   __ __    ___  ____   ______   ____  ____   ____  ___  
-#  l    j|    \ |  T  |  /  _]|    \ |      T /    T|    \ l    j/   \ 
-#   |  T |  _  Y|  |  | /  [_ |  _  Y|      |Y  o  ||  D  ) |  TY     Y
-#   |  | |  |  ||  |  |Y    _]|  |  |l_j  l_j|     ||    /  |  ||  O  |
-#   |  | |  |  |l  :  !|   [_ |  |  |  |  |  |  _  ||    \  |  ||     |
-#   j  l |  |  | \   / |     T|  |  |  |  |  |  |  ||  .  Y j  ll     !
-#  |____jl__j__j  \_/  l_____jl__j__j  l__j  l__j__jl__j\_j|____j\___/ 
-#                                                                      
-# Autor: parzibyte
-# Última modificación: 06 de junio de 2016
+
 
 function consultar_valor_del_inventario()
 {

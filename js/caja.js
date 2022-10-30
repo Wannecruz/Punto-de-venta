@@ -1,14 +1,5 @@
 /***
- *        __   ____  ____   ____
- *       /  ] /    T|    | /    T
- *      /  / Y  o  |l__  |Y  o  |
- *     /  /  |     |__j  ||     |
- *    /   \_ |  _  /  |  ||  _  |
- *    \     ||  |  \  `  ||  |  |
- *     \____jl__j__j\____jl__j__j
- *
- *    Última modificación: 09 de junio de 2016 por Parzibyte
- *    Entorno: Desarrollo
+ 
  */
 
 

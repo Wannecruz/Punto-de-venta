@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Luis_
- * Date: 28/10/2016
- * Time: 10:17 AM
+
  */
 function consultar_familias()
 {

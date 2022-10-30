@@ -1,14 +1,5 @@
 /***
- *     ____     ___  ____    ___   ____  ______    ___         ____   ____  _____ ______   ___    _____
- *    |    \   /  _]|    \  /   \ |    \|      T  /  _]       /    T /    T/ ___/|      T /   \  / ___/
- *    |  D  ) /  [_ |  o  )Y     Y|  D  )      | /  [_ _____ Y   __jY  o  (   \_ |      |Y     Y(   \_ 
- *    |    / Y    _]|   _/ |  O  ||    /l_j  l_jY    _]     ||  T  ||     |\__  Tl_j  l_j|  O  | \__  T
- *    |    \ |   [_ |  |   |     ||    \  |  |  |   [_l_____j|  l_ ||  _  |/  \ |  |  |  |     | /  \ |
- *    |  .  Y|     T|  |   l     !|  .  Y |  |  |     T      |     ||  |  |\    |  |  |  l     ! \    |
- *    l__j\_jl_____jl__j    \___/ l__j\_j l__j  l_____j      l___,_jl__j__j \___j  l__j   \___/   \___j
- *  
- *    Última modificación: 09 de junio de 2016 por Parzibyte
- *    Entorno: Desarrollo                                                                                                         
+                                                                                                       
  */
 $(document).ready(function() {
 	escuchar_elementos();

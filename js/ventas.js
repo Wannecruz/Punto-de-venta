@@ -1,14 +1,5 @@
 /***
- *     __ __    ___  ____   ______   ____  _____
- *    |  T  |  /  _]|    \ |      T /    T/ ___/
- *    |  |  | /  [_ |  _  Y|      |Y  o  (   \_
- *    |  |  |Y    _]|  |  |l_j  l_j|     |\__  T
- *    l  :  !|   [_ |  |  |  |  |  |  _  |/  \ |
- *     \   / |     T|  |  |  |  |  |  |  |\    |
- *      \_/  l_____jl__j__j  l__j  l__j__j \___j
- *
- *    Última modificación: 09 de junio de 2016 por Parzibyte
- *    Entorno: Desarrollo
+ 
  */
 var productos_vender = [],
     ayudante_posicion = 0,

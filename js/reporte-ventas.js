@@ -1,14 +1,5 @@
 /***
- *     ____     ___  ____    ___   ____  ______    ___        __ __    ___  ____   ______   ____  _____
- *    |    \   /  _]|    \  /   \ |    \|      T  /  _]      |  T  |  /  _]|    \ |      T /    T/ ___/
- *    |  D  ) /  [_ |  o  )Y     Y|  D  )      | /  [_ _____ |  |  | /  [_ |  _  Y|      |Y  o  (   \_
- *    |    / Y    _]|   _/ |  O  ||    /l_j  l_jY    _]     ||  |  |Y    _]|  |  |l_j  l_j|     |\__  T
- *    |    \ |   [_ |  |   |     ||    \  |  |  |   [_l_____jl  :  !|   [_ |  |  |  |  |  |  _  |/  \ |
- *    |  .  Y|     T|  |   l     !|  .  Y |  |  |     T       \   / |     T|  |  |  |  |  |  |  |\    |
- *    l__j\_jl_____jl__j    \___/ l__j\_j l__j  l_____j        \_/  l_____jl__j__j  l__j  l__j__j \___j
- *
- *    Última modificación: 09 de junio de 2016 por Parzibyte
- *    Entorno: Desarrollo
+ 
  */
 var un_dia_en_milisegundos = (24 * 60 * 60 * 1000),
     ayudante_total = 0,

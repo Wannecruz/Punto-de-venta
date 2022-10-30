@@ -1,5 +1,5 @@
 /**
- * Created by parzibyte on 01/08/2016.
+.
  */
 $(principal);
 function principal() {

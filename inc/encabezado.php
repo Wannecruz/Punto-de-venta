@@ -8,7 +8,7 @@ const NOMBRE_NEGOCIO = "Punto de Venta";
 <html>
 <head>
     <title><?php echo NOMBRE_NEGOCIO ?></title>
-    <link rel="icon" type="image/png" href="./img/favicon.png"/>
+    <link rel="icon" type="image/png" href="./img/umg.png"/>
     <link href="./css/animate.css" rel="stylesheet">
     <link href="./css/np.css" rel="stylesheet">
     <link href="./css/pnotify.css" rel="stylesheet">

@@ -1,7 +1,7 @@
 ﻿<?php  
 $usuario = "root";
 $contraseña = "";
-const NOMBRE_BASE_DE_DATOS = "okventa_by_parzibyte";
+const NOMBRE_BASE_DE_DATOS = "database_umg";
 try {
     $base_de_datos = new PDO('mysql:host=localhost;dbname=' . NOMBRE_BASE_DE_DATOS, $usuario, $contraseña);
     $base_de_datos->query("set names utf8;");
