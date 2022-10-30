@@ -7,19 +7,19 @@
                 <div class="btn-group">
                     <button id="quitar_ultimo_producto" type="button" class="btn btn-warning">
                         <i class="fa-minus fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd></kbd> Quitar último producto</span>
+                        <span class="hidden-xs"> Quitar último producto</span>
                     </button>
                 </div>
                 <div class="btn-group">
                     <button id="preparar_venta" type="button" class="btn btn-success">
                         <i class="fa-check-circle-o fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd></kbd> Realizar una venta</span>
+                        <span class="hidden-xs"> Realizar una venta</span>
                     </button>
                 </div>
                 <div class="btn-group">
                     <button id="cancelar_toda_la_venta" type="button" class="btn btn-danger">
                         <i class="fa-ban fa visible-xs"></i>
-                        <span class="hidden-xs"><kbd></kbd> Cancelar la venta</span>
+                        <span class="hidden-xs"> Cancelar la venta</span>
                     </button>
                 </div>
             </div>
